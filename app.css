@@ -1,0 +1,29 @@
+
+header > h1 {
+	padding-top: 50px;
+
+}
+h1,h2 {
+	color: white;
+	text-align: center;
+}
+form > * {
+	margin: 10px 0;
+}
+
+.center-text {	
+	background: rgba(0,0,0,0.7);
+}
+
+
+
+.background-img {
+	/*display: flex;*/
+	background: url('blurred-gamer-img.png');
+	background-size: cover;
+	height: 100vh;
+	/*display: flex;*/
+/*	justify-content: center;
+	align-content: center;
+	flex-direction: column;*/
+}
