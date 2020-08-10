@@ -5,8 +5,8 @@ Fall asleep on the washing machine decide to want nothing to do with my owner to
 
 ## Technologies Used
 
-- [ ] Javascript
-- [ ] HTML
-- [ ] CSS
-- [ ] Python
-- [ ] Flask
+- [x] Javascript
+- [x] HTML
+- [x] CSS
+- [x] Python
+- [x] Flask
