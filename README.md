@@ -10,3 +10,13 @@ Fall asleep on the washing machine decide to want nothing to do with my owner to
 - [x] CSS
 - [x] Python
 - [x] Flask
+
+
+# Features
+
+- [x] This is a feature right here
+- [x] This is a feature right here
+- [x] This is a feature right 
+- [x] This is a feature right here
+- [x] This is a feature right here
+- [x] This is a feature 
